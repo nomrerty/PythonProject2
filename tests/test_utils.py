@@ -54,3 +54,4 @@ def test_empty_category():
     assert category.products == []
     assert category.product_count == 0
     assert Category.category_count > 0
+# Он не видит
